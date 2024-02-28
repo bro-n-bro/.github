@@ -1,4 +1,5 @@
-![bro_n_bro_logo](https://pbs.twimg.com/profile_banners/1417924594242043913/1673266433/1500x500)
+![image](https://github.com/bro-n-bro/.github/assets/89855562/cd1e6ccd-2c5c-430a-a864-198accdee916)
+
 
 # Welcome to Bro_n_Bro Foundation!
 
