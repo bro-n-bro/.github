@@ -1,6 +1,6 @@
-![bro_n_bro_logo](https://pbs.twimg.com/profile_banners/1417924594242043913/1673266433/1500x500)
-
-# Welcome to Bro_n_Bro Foundation!
+[1500x500](https://github.com/bro-n-bro/.github/assets/89855562/e2b0661e-6706-4169-9517-91743d066ad8)
+# Welcome!
+ to Bro_n_Bro Foundation!
 
 ## Who Are We?
 🌍 Bro_n_Bro foundation began in early 2021 as a Validator for the Cosmos Ecosystem. 🚀 We're not just a typical validator, we are a team of experienced engineers, creative marketers, talented designers, and analysts from all over the world. 🌐 Trusted by thousands of stakers, our mission is simple: to support and develop a decentralized world. We build for decentralization until it is achieved. Join us on this exciting journey!
