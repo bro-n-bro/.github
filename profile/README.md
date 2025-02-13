@@ -28,6 +28,7 @@ At Bro_n_Bro Foundation, we actively contribute to the growth and development of
 💳 JetWallet - A Telegram Mini-App wallet for the Cosmos ecosystem.
 
 🔌 Public API, GRPC & LCD Endpoints – Reliable infrastructure for seamless blockchain interactions.
+
 📡 **IBC Relaying** - We run IBC relayers to support blockchain communities in the Cosmos ecosystem. Our relayer addresses:
 
 - bostrom1y7hgwdjfn2hk0m9nwclav63apv8g42rmc6puqu
