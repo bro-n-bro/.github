@@ -2,50 +2,58 @@
 
 # Welcome to Bro_n_Bro Foundation!
 
-## Who Are We?
+## Who WE Are 👇
 🌍 Bro_n_Bro foundation began in early 2021 as a Validator for the Cosmos Ecosystem. 🚀 We're not just a typical validator, we are a team of experienced engineers, creative marketers, talented designers, and analysts from all over the world. 🌐 Trusted by thousands of stakers, our mission is simple: to support and develop a decentralized world. We build for decentralization until it is achieved. Join us on this exciting journey!
 
 ## Validated Networks
-🔗 Currently, we validate on 14 chains (and counting). We're continuously expanding our reach! 🌟
+🔗 Currently, we validate on 17 chains (and counting). We're continuously expanding our reach! 🌟
 
 ## Our Contributions:
 At Bro_n_Bro Foundation, we actively contribute to the growth and development of the Cosmos ecosystem. Here are some of our key contributions:
 
-📱 **Bro App**: Manage your #Cosmos assets with ease. Check it out at [app.bronbro.io](https://app.bronbro.io/)
+🔍 **[Spacebox Indexer](https://spacebox.bronbro.io/)** - The ultimate solution for developers, traders, and enthusiasts in the Cosmos ecosystem.
 
-📊 **Validator Ratings**: Get insights into validator performance and ratings at [score.bronbro.io](https://score.bronbro.io/)
+🛠 [**Bro Services**](https://services.bronbro.io/) – A suite of essential blockchain utilities:
 
-🔍 **Monitor Boards**: Stay informed with our detailed monitor boards at [monitor.bronbro.io](https://monitor.bronbro.io/)
+  - 🔀 MultiSend – Batch multiple transactions in a single operation.
+ - ⛑️ IBC Packets Recovery – Recover stuck IBC transfers seamlessly.
+- 🚀 IBC Route – Optimize cross-chain transactions with intelligent routing.
 
-🤖 **Validator Proposal Bot**: Explore our open-source proposal tracking bot on GitHub: [bro-proposals-tracking-bot](https://github.com/bro-n-bro/bro-proposals-tracking-bot)
+🔍 **[Monitor Boards](https://monitor.bronbro.io/)** - stay informed with detailed on-chain metrics.
 
-📡 **IBC Relaying**: We run IBC relayers to support blockchain communities in the Cosmos ecosystem. Here are our relayer addresses:
+🤖 **[Validator Proposal Bot](https://github.com/bro-n-bro/bro-proposals-tracking-bot)** - An open-source proposal tracking bot available on GitHub.
+
+🌍 **[Explorer](https://explorer.bronbro.io/)** - Your go-to place for Cosmos blockchain data.
+
+💳 JetWallet - A Telegram Mini-App wallet for the Cosmos ecosystem.
+
+🔌 Public API, GRPC & LCD Endpoints – Reliable infrastructure for seamless blockchain interactions.
+📡 **IBC Relaying** - We run IBC relayers to support blockchain communities in the Cosmos ecosystem. Our relayer addresses:
 
 - bostrom1y7hgwdjfn2hk0m9nwclav63apv8g42rmc6puqu
-- osmo12e8crhzuh4ea0tmr5m8ytx6l3nqer4vxkq8h2c
-- cosmos1yevlp8pu8c5jq75kjyvryjjtylpa7m0rtux7h6
-- axelar1yevlp8pu8c5jq75kjyvryjjtylpa7m0r0jskum
-- cre1fejerulsacktdyfmaxk4lnw7nwnmpm0deymdd9
 - bostrom1fejerulsacktdyfmaxk4lnw7nwnmpm0d7lumx0
-- desmos1fejerulsacktdyfmaxk4lnw7nwnmpm0df59c0s
-- pussy1fejerulsacktdyfmaxk4lnw7nwnmpm0d5nzk9x
-- juno1fejerulsacktdyfmaxk4lnw7nwnmpm0dt7tnl5
-- evmos1lm7f8eqe77e9rkk6w3rqw7newqv8gsgtam04we
+- osmo12e8crhzuh4ea0tmr5m8ytx6l3nqer4vxkq8h2c
 - gravity1fejerulsacktdyfmaxk4lnw7nwnmpm0deu6saq
+- cosmos1yevlp8pu8c5jq75kjyvryjjtylpa7m0rtux7h6
+- akash1yevlp8pu8c5jq75kjyvryjjtylpa7m0rx8tewq
+- agoric1yevlp8pu8c5jq75kjyvryjjtylpa7m0repyp8v
 
 ## Our Infrastructure
-🌐 We take a precision approach to our infrastructure setup. Most of our nodes run on bare-metal servers distributed across multiple locations, ensuring reliability and performance.
+🌐 We take a precision approach to our infrastructure setup. Most of our nodes run on bare-metal servers distributed across multiple locations, ensuring top-tier reliability and performance.
 
 ## Active On-Chain Governance
-🗳️ We are actively involved in governance, as we believe it is essential for network progress. We value community engagement and transparency. We discuss our decisions with our delegators on Twitter and our Telegram group, and we encourage open dialogue. Together, we shape the future!
+🗳️ We are deeply involved in governance because we believe it is essential for network progress. Community engagement and transparency are our priorities.
+
+We discuss our governance decisions with delegators on Twitter and in our Telegram group, encouraging open dialogue. Together, we shape the future!
 
 ## Connect with Us
-Join the Bro_n_Bro community and stay updated with our latest activities and announcements. Let's build a decentralized world together!
+Join the Bro_n_Bro community and stay updated on our latest activities and announcements. Let’s build a decentralized world together!
 
 🌐 [Website](https://bronbro.io/)
 🐦 [Twitter](https://twitter.com/Bro_n_Bro)
 📁 [GitHub](https://github.com/bro-n-bro)
-💬 [Telegram Group](https://t.me/bro_n_bro_community)
+💬 [Bro_n_Bro TG Group](https://t.me/bro_n_bro_community)
+💬 [JetWallet TG Group](https://t.me/jetwallet_official)
 🌟 [Reddit](https://www.reddit.com/user/bro_n_bro)
 
-Feel free to reach out to us anytime. We're excited to connect with you!
+Feel free to reach out anytime - we’re excited to connect with you! 🚀
